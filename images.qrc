@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/login-half.jpg</file>
+        <file>images/key.png</file>
+        <file>images/login.png</file>
+        <file>images/logo.png</file>
+        <file>images/logo-naked.png</file>
+        <file>images/person-icon-blue-18.png</file>
+        <file>images/changepw.png</file>
+        <file>images/admincompany.png</file>
+        <file>images/adminuser.png</file>
+        <file>images/home.png</file>
+        <file>images/ledger.png</file>
+        <file>images/purchase.png</file>
+        <file>images/sales.png</file>
+        <file>images/stocks.png</file>
+        <file>images/Aboutus.png</file>
+        <file>images/down arrow.png</file>
+        <file>images/billining.png</file>
+        <file>images/admin.png</file>
+        <file>images/green.png</file>
+        <file>images/Anish.JPG</file>
+        <file>images/Anish.png</file>
+        <file>images/pngbarn.png</file>
+        <file>images/012_restart-2-512.png</file>
+        <file>images/addico.png</file>
+        <file>images/address.png</file>
+        <file>images/adduser.png</file>
+        <file>images/billsym.png</file>
+        <file>images/bin.png</file>
+        <file>images/refresh-icon-md.png</file>
+        <file>images/PngItem_4897312.png</file>
+        <file>images/Checkmark-Circle-512.png</file>
+        <file>images/kindpng_3942505.png</file>
+        <file>images/clipart2924736.png</file>
+        <file>images/Kalyan.png</file>
+        <file>images/Paribesh.png</file>
+        <file>images/home.jpg</file>
+        <file>images/logo(1).png</file>
+    </qresource>
+</RCC>
